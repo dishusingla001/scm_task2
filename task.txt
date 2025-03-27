@@ -6,5 +6,7 @@ To - Do Items :
 4. Do Program in C Language
 5. Do More Practise in Git and Github
 6. Complete Deca file.
-Do all the task in given time 
+7. Complete Os notes.
+
+this is the to do list.
 
