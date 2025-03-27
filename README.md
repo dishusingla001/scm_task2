@@ -14,4 +14,4 @@ Steps -
 Potential Future Features - In the future we add a graph feature in which you analysis how you do your task on time or not and add a time option in list so you can fix time at which you perform the task 
 
 
-
+How to Contribute - WE can Contribute on the site in the about section and add a note and then click on send we receive your contribute.
