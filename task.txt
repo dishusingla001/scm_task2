@@ -1,0 +1,6 @@
+To - Do Items :
+
+1. Practise Git
+2. Practise GitHub
+3. Solve Question of De&T
+4. Do Program in C Language
