@@ -5,3 +5,8 @@ To - Do Items :
 3. Solve Question of De&T
 4. Do Program in C Language
 5. Do More Practise in Git and Github
+6. Complete deca file.
+
+
+this is the to do list.
+
