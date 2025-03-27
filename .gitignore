@@ -1,0 +1,4 @@
+# Files that i want to ignore 
+.env
+*.log
+*.temp
