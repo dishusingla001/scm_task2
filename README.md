@@ -15,3 +15,6 @@ Potential Future Features - In the future we add a graph feature in which you an
 
 
 How to Contribute - WE can Contribute on the site in the about section and add a note and then click on send we receive your contribute.
+
+How to Send email - You see the mail button in the help page through that you can mail on our official mail.
+ 
